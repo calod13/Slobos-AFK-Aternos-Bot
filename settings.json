@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "chilabot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "fishy2k9.aternos.me:43273",
-    "port": 43273,
+    "ip": "58dt.aternos.me",
+    "port": 64583,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "t chi la bot",
+        "t dang theo doi cmay",
+        "t thay m r"
       ]
     },
     "chat-log": true,
