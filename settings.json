@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "58dt.aternos.me",
-    "port": 64583,
+    "ip": "fishy2k9.aternos.me:43273",
+    "port": 43273,
     "version": "",
     "try-creative": false
   },
@@ -60,17 +60,17 @@
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": false,
+    "beds": true,
     "chat": true,
     "console-commands": true
   },
   "combat": {
-    "attack-mobs": true,
+    "attack-mobs": false,
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": false,
-    "place-night": false
+    "pick-up-day": true,
+    "place-night": true
   },
   "discord": {
     "enabled": false,
